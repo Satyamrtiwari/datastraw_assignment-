@@ -2,6 +2,7 @@
 
 > **Candidate Assignment**: Full Stack AI Developer Intern Assessment  
 > **Live Deployed Application**: [https://web-production-1071.up.railway.app](https://web-production-1071.up.railway.app)  
+> **Demo Video Walkthrough (Google Drive)**: [Watch 1080p Demo Video](https://drive.google.com/file/d/116WJ7o2vi8Mf0d4gzCwVIReKft7xIVhB/view?usp=sharing)  
 > **Interactive API Docs (Swagger)**: [https://web-production-1071.up.railway.app/docs](https://web-production-1071.up.railway.app/docs)  
 > **Backend**: FastAPI • SQLAlchemy ORM • SQLite • Groq Cloud AI Engine (`groq/compound-mini` / Llama 3)  
 > **Frontend**: React 19 • Vite • Dual Theme (Day Mode Default / Dark Mode) • Glassmorphism SaaS UI  
