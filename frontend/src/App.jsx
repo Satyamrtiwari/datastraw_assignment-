@@ -19,9 +19,9 @@ import {
 } from './api';
 
 export default function App() {
-  // Theme State
+  // Theme State (Day Mode by default)
   const [theme, setTheme] = useState(() => {
-    return localStorage.getItem('datastraw_theme') || 'dark';
+    return localStorage.getItem('datastraw_theme') || 'light';
   });
 
   // Filter States
