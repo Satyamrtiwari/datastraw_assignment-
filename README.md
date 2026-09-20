@@ -1,8 +1,10 @@
 # 🌟 Datastraw Support CRM — Full-Stack AI Customer Operations Platform
 
 > **Candidate Assignment**: Full Stack AI Developer Intern Assessment  
+> **Live Deployed Application**: [https://web-production-1071.up.railway.app](https://web-production-1071.up.railway.app)  
+> **Interactive API Docs (Swagger)**: [https://web-production-1071.up.railway.app/docs](https://web-production-1071.up.railway.app/docs)  
 > **Backend**: FastAPI • SQLAlchemy ORM • SQLite • Groq Cloud AI Engine (`groq/compound-mini` / Llama 3)  
-> **Frontend**: React 19 • Vite • Dual Theme (Dark / Light) • Glassmorphism SaaS UI  
+> **Frontend**: React 19 • Vite • Dual Theme (Day Mode Default / Dark Mode) • Glassmorphism SaaS UI  
 
 ---
 
